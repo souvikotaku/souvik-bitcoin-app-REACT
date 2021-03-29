@@ -1,0 +1,24 @@
+.bitheader {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 10px;
+  width: 388px;
+  height: 10px;
+  color: white;
+}
+
+@media (orientation: portrait) {
+  .bitcoinchart {
+    width: 600px;
+    height: 150px;
+  }
+}
+
+@media (orientation: landscape) {
+  .bitcoinchart {
+    width: 1200px;
+    height: 300px;
+  }
+}
