@@ -1,3 +1,6 @@
+## Its a bitcoin price chart app i made on React by using the coindesk api and apexcharts package. Check out the live app here https://souvik-bitcoin-app.netlify.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
